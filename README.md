@@ -1,8 +1,7 @@
 # 🍷 Análisis de Correspondencias: Consumo de Alcohol en Estudiantes
 
-<!-- Animación de Datos/Estadística -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1wYzFzZW1wZ3ExZnc0bzF5eG9wYWw0b2c3dXZyd3R6bTczcWFmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TksjJsG5421X6xO/giphy.gif" width="150" alt="Data Analytics Animation" />
+  <img src="https://github.com/user-attachments/assets/a58e18e6-d13a-4913-aab9-bc51585a3b90" width="180" alt="Data Science Animation" />
 </div>
 <br>
 
