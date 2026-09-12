@@ -41,11 +41,11 @@ El estudio se basó en el procesamiento de una base de datos de **382 casos** a 
 Puedes explorar los materiales visuales y el reporte completo de la investigación:
 
 <div align="center">
-  <a href="URL_AL_POSTER_EN_TU_REPO">
-    <img src="https://img.shields.io/badge/📊_Ver_Póster_del_Proyecto-PowerPoint-blue?style=for-the-badge" alt="Ver Póster" />
+  <a href="https://github.com/vanemendez25/analisis-correspondencias-alcohol-estudiantes/blob/main/Cartel.multivariados.pdf">
+    <img src="https://img.shields.io/badge/📊_Ver_Póster_del_Proyecto-PDF-blue?style=for-the-badge" alt="Ver Póster" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="URL_AL_REPORTE_EN_TU_REPO">
+  <a href="https://github.com/vanemendez25/analisis-correspondencias-alcohol-estudiantes/blob/main/Proyecto.Analisis.de.Correspondencia.pdf">
     <img src="https://img.shields.io/badge/📄_Ver_Reporte_Estadístico-PDF-red?style=for-the-badge" alt="Ver Reporte" />
   </a>
 </div>
